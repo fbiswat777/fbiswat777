@@ -16,7 +16,7 @@
 > "Who's Bad?" :dark_sunglasses:  
 > *"In a world filled with hate, we must still dare to hope."* — **MJ** :crown:
 
-Eu sou um desenvolvedor focado em **Automação e Integrações**. Gosto de criar pontes entre o **Roblox** e **Discord**.
+Eu sou um desenvolvedor focado em **Automação**. Gosto de criar coisas envolvendo **Roblox** e **Discord**.
 
 * :shield: **Especialidade:** Automações.
 * :speech_balloon: **Discord:** `fbi_s.w.a.t`
