@@ -12,7 +12,7 @@
 
 ---
 
-### :bust_in_silhouette: Sobre Mim
+### Sobre Mim
 > "Who's Bad?" :dark_sunglasses:  
 > *"In a world filled with hate, we must still dare to hope."* — **MJ** :crown:
 
@@ -23,7 +23,7 @@ Eu sou um desenvolvedor focado em **Automação e Integrações**. Gosto de cria
 
 ---
 
-### :rocket: Meus Projetos
+### Meus Projetos
 
 | Projeto | Descrição | Status |
 | :--- | :--- | :--- |
@@ -31,7 +31,7 @@ Eu sou um desenvolvedor focado em **Automação e Integrações**. Gosto de cria
 
 ---
 
-### :tools: Ferramentas que utilizo
+### Ferramentas que utilizo
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=Roblox&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,5 +41,5 @@ Eu sou um desenvolvedor focado em **Automação e Integrações**. Gosto de cria
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fbiswat777&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br>
-  <i>"Keep on dancing, keep on believing."</i> :sparkles:
+  <i>"Keep on dancing, keep on believing."</i>
 </p>
